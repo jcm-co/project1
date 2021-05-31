@@ -62,15 +62,15 @@ ___
 
 #### Current Path to FIRE:
 
-![Current Path to FIRE](Images/Current_Path_to_FIRE.PNG)
+![Current_Path_to_FIRE.PNG](Images/Current_Path_to_FIRE.PNG)
 
 #### FIRE Path if invested:
 
-![FIRE Path if invested](Images/FIRE_Path_if_invested.png)
+![FIRE_Path_if_invested.png](Images/FIRE_Path_if_invested.png)
 
 #### Suggested FIRE path:
 
-![Suggested FIRE path](Images/Suggested_FIRE_ path.PNG)
+![Suggested_FIRE_path.PNG](Images/Suggested_FIRE_ path.PNG)
 
 
 
