@@ -4,18 +4,22 @@
 
 ## Summary
 ____
+
 James is keen to retire early, based on the FIRE principle. He’d like to assess based on his age, savings and lifestyle what that would look like. Unfortunately, James will have to work a long time to reach Financially Independent Retire Early status. 
 
 A wise person suggests James to invest on the stock exchange, to speed up the process. James would like to see some proof of what that would look like. A brilliant tool is shown to James, which has  10, 20 and 30 year return simulations including risk assessment. 
+
 
 James, is also thinking that if he could save a bit of money on cost living, he would end up with more and having a good retirement life. So for that, James would like to analysis the cost living expenses in different countries and see if he better off moving into another country.
 
 
 ## Questions:
 
+
 1. Could James achieve FIRE status? 
 
 2. Are there ways to speed up the process? 
+
 
 3. What would be an alternative investment strategy for retirement plan?
 
@@ -32,9 +36,11 @@ James, is also thinking that if he could save a bit of money on cost living, he 
 
 ## Data:
 
+
 ### - FIRE calculator
 
 * Input personal data in the calculator
+
 
 ### - Market Analysis & Retirement Tool Data: 
 We used yfinance to fetch historical data of 5 major Indexes market. We used then https://au.finance.yahoo.com/ and collected the data history of S&P500, NASDAQ Composite, S&P/ASX 200, Dow Jones Commodity & BTC.
@@ -53,6 +59,7 @@ We used yfinance to fetch historical data of 5 major Indexes market. We used the
 
 ## Analysis
 ___
+
 
 ### - FIRE calculator
 
