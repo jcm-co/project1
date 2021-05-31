@@ -117,6 +117,11 @@ ___
 
 
 ## Cost of Living Analysis:
+### Cost of living returns the list of countries a person is eligible to retire base on his expected savings and age.Cost of living analysis pulls per capita income data from worldbank using wbdata. Then it derives the cost of living per country for next 50 years. From that data it derives the list countries a person would be eligible after certain age. Using geopy and Nomatin the country cordinates are retrieved and you folin the visualization has been done
+####
 ___
+## Coutries for retirement
+![countries_for_retirement_map.png](images/countries_for_retirement_map.PNG)
+![countries_for_retirement_list.png](images/countries_for_retirement_list.PNG)
 
 
