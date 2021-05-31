@@ -4,37 +4,28 @@
 
 ## Summary
 ____
-James an average person is looking to see if there is an alternative option that he can retire earlier based on his age, savings and lifestyle.
+James is keen to retire early, based on the FIRE principle. He’d like to assess based on his age, savings and lifestyle what that would look like. Unfortunately, James will have to work a long time to reach Financially Independent Retire Early status. 
 
-James has done some calculations on his Superfund, but has found that, it will take a lot of time to achieve his goal, so he decided to look out for an alternative investment strategy.
-
-James is whiling to take some risk and would like to see if investing into the Market would help him to achieve his goal. He would like then to use a tool that can predict him how he would end up in the next 10, 20 and 30 years based on an initial investment and savings every year.
+A wise person suggests James to invest on the stock exchange, to speed up the process. James would like to see some proof of what that would look like. A brilliant tool is shown to James, which has  10, 20 and 30 year return simulations including risk assessment. 
 
 James, is also thinking that if he could save a bit of money on cost living, he would end up with more and having a good retirement life. So for that, James would like to analysis the cost living expenses in different countries and see if he better off moving into another country.
 
 
 ## Questions:
 
-1. When would you like to retire?
-
-2. If you would like to retire sooner, would Superannuation be the best retirement plan?
-
-3. What would be an alternative investment strategy for retirement plan?
-
-4. Would the Market be a good alternative for investment and what would be its risk?
-
-5. How much returns would you have if investing into the Market over next 10, 20 & 30 years?
-
-6. Could a new relocation be a good option to save more money?
-
-7. What would the more affordable places?
-
-8. What location can I afford based on my savings? 
-
+1. What does James his personal financial situation looks like? 
+2. Does he have a chance of achieving FIRE status? 
+3. What would be the impact of compounded investments? 
+4. The hypothesis supports that investing would be a wise decision. What investment strategy would we recommend for James based on investment duration (10y / 20y / 30y). 
+5. What is the risk on these investment? 
+6. What would be an alternative investment strategy for retirement plan?
+7. If James would relocate, given the savings he would have at the time of what would be a an interesting location for James?
+8. Are there other factors that influence where to move to? 
 
 ## Data:
 
-### - Personal Analysis Data: (JC)
+### - FIRE Calculator
+* In this section the tool gathers information from the end user, to make a FIRE assessment  
 
 ### - Market Analysis & Retirement Tool Data: 
 We used yfinance to fetch historical data of 5 major Indexes market. We used then https://au.finance.yahoo.com/ and collected the data history of S&P500, NASDAQ Composite, S&P/ASX 200, Dow Jones Commodity & BTC.
@@ -54,7 +45,20 @@ We used yfinance to fetch historical data of 5 major Indexes market. We used the
 ## Analysis
 ___
 
-### - Personal Analysis Data: (JC)
+### - FIRE Calculator:
+* The calculator creates a DF with simulations on how the road to FIRE status could be shortened
+* The calculator assesses the impact of investing vs. the duration to get to FIRE status
+
+#### Current Path to FIRE:
+![Current Path to FIRE](images/Current_Path_to_FIRE.PNG)
+
+#### FIRE Path if invested:
+
+![FIRE Path if invested](images/FIRE_Path_if_invested.PNG)
+
+#### Suggested FIRE path:
+![Suggested FIRE path](images/Suggested_FIRE_path.PNG)
+
 
 ### - Market Analysis: 
 
