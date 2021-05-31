@@ -1,6 +1,6 @@
 # Project 1
 
-![FIRE_analysis.png](images/FIRE_analysis.PNG)
+![FIRE_analysis.png](Images/FIRE_analysis.PNG)
 
 ## Summary
 ____
@@ -54,9 +54,6 @@ We used yfinance to fetch historical data of 5 major Indexes market. We used the
 5. BTC.
 
 
-### - Cost of living analysis Data:  (Raj) 
-
-
 ## Analysis
 ___
 
@@ -65,15 +62,15 @@ ___
 
 #### Current Path to FIRE:
 
-![Current Path to FIRE](images/Current_Path_to_FIRE.PNG)
+![Current Path to FIRE](Images/Current_Path_to_FIRE.PNG)
 
 #### FIRE Path if invested:
 
-![FIRE Path if invested](images/FIRE_Path_if_invested.png)
+![FIRE Path if invested](Images/FIRE_Path_if_invested.png)
 
 #### Suggested FIRE path:
 
-![Suggested FIRE path](images/Suggested_FIRE_ path.PNG)
+![Suggested FIRE path](Images/Suggested_FIRE_ path.PNG)
 
 
 
@@ -83,20 +80,20 @@ ___
 
 #### Initial Data:
 
-![Initial_Data.png](images/Initial_Data.PNG)
+![Initial_Data.png](Images/Initial_Data.PNG)
 
 #### Daily Returns: 
 
-![Daily_Returns.png](images/Daily_Returns.PNG)
+![Daily_Returns.png](Images/Daily_Returns.PNG)
 
 #### Cumulative Returns:
-![Cumulative_Returns.png](images/Cumulative_Returns.PNG)
+![Cumulative_Returns.png](Images/Cumulative_Returns.PNG)
 
 #### Risk Analysis -> Standard Deviation:
-![Std.png](images/Std.PNG)
+![Std.png](Images/Std.PNG)
 
 #### Sharpe Ratios:
-![Sharpe_Ratios.png](images/Sharpe_Ratios.PNG)
+![Sharpe_Ratios.png](Images/Sharpe_Ratios.PNG)
 
 ### Retirement Plan Tool Analysis:
 
@@ -105,14 +102,14 @@ ___
 #### Then, we analysed the statistics from the simulated daily returns in 10-, 20- & 30-years to determine the returns based on an innitial investment of $20,000 and annual investment of $10,000.
 
 
-![Simulated_Statistics_Returns10.png](images/Simulated_Statistics_Returns10.PNG)
-![Simulated_Statistics_Returns20.png](images/Simulated_Statistics_Returns20.PNG)
-![Simulated_Statistics_Returns30.png](images/Simulated_Statistics_Returns30.PNG)
+![Simulated_Statistics_Returns10.png](Images/Simulated_Statistics_Returns10.PNG)
+![Simulated_Statistics_Returns20.png](Images/Simulated_Statistics_Returns20.PNG)
+![Simulated_Statistics_Returns30.png](Images/Simulated_Statistics_Returns30.PNG)
 
 ### Final Returns:
-![Final_Returns.png](images/Final_Returns.PNG)
+![Final_Returns.png](Images/Final_Returns.PNG)
 
-![Proyected_Portfolio_Returns.png](images/Proyected_Portfolio_Returns.PNG)
+![Proyected_Portfolio_Returns.png](Images/Proyected_Portfolio_Returns.PNG)
 
 
 
@@ -121,7 +118,7 @@ ___
 ####
 ___
 ## Coutries for retirement
-![countries_for_retirement_map.png](images/countries_for_retirement_map.PNG)
-![countries_for_retirement_list.png](images/countries_for_retirement_list.PNG)
+![countries_for_retirement_map.png](Images/countries_for_retirement_map.PNG)
+![countries_for_retirement_list.png](Images/countries_for_retirement_list.PNG)
 
 
