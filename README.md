@@ -4,20 +4,22 @@
 
 ## Summary
 ____
-James an average person is looking to see if there is an alternative option that he can retire earlier based on his age, savings and lifestyle.
 
-James has done some calculations on his Superfund, but has found that, it will take a lot of time to achieve his goal, so he decided to look out for an alternative investment strategy.
+James is keen to retire early, based on the FIRE principle. He’d like to assess based on his age, savings and lifestyle what that would look like. Unfortunately, James will have to work a long time to reach Financially Independent Retire Early status. 
 
-James is whiling to take some risk and would like to see if investing into the Market would help him to achieve his goal. He would like then to use a tool that can predict him how he would end up in the next 10, 20 and 30 years based on an initial investment and savings every year.
+A wise person suggests James to invest on the stock exchange, to speed up the process. James would like to see some proof of what that would look like. A brilliant tool is shown to James, which has  10, 20 and 30 year return simulations including risk assessment. 
+
 
 James, is also thinking that if he could save a bit of money on cost living, he would end up with more and having a good retirement life. So for that, James would like to analysis the cost living expenses in different countries and see if he better off moving into another country.
 
 
 ## Questions:
 
-1. When would you like to retire?
 
-2. If you would like to retire sooner, would Superannuation be the best retirement plan?
+1. Could James achieve FIRE status? 
+
+2. Are there ways to speed up the process? 
+
 
 3. What would be an alternative investment strategy for retirement plan?
 
@@ -34,7 +36,11 @@ James, is also thinking that if he could save a bit of money on cost living, he 
 
 ## Data:
 
-### - Personal Analysis Data: (JC)
+
+### - FIRE calculator
+
+* Input personal data in the calculator
+
 
 ### - Market Analysis & Retirement Tool Data: 
 We used yfinance to fetch historical data of 5 major Indexes market. We used then https://au.finance.yahoo.com/ and collected the data history of S&P500, NASDAQ Composite, S&P/ASX 200, Dow Jones Commodity & BTC.
@@ -54,7 +60,22 @@ We used yfinance to fetch historical data of 5 major Indexes market. We used the
 ## Analysis
 ___
 
-### - Personal Analysis Data: (JC)
+
+### - FIRE calculator
+
+#### Current Path to FIRE:
+
+![Current Path to FIRE](images/Current_Path_to_FIRE.PNG)
+
+#### FIRE Path if invested:
+
+![FIRE Path if invested](images/FIRE_Path_if_invested.png)
+
+#### Suggested FIRE path:
+
+![Suggested FIRE path](images/Suggested_FIRE_ path.PNG)
+
+
 
 ### - Market Analysis: 
 
